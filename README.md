@@ -12,8 +12,20 @@ I am making Python programs by using PyCharm IDE for Windows from here
 
 https://www.jetbrains.com/pycharm/download/#section=windows
 
+
+
 **I) Six Turtles progress one after another, the next Turtle will progress after the previous Turtle has done**
 
-For example, after the Blue Turtle that goes for path of directions-1.txt file, then the Green Turtle progress as below
+The program for this approach is here 
+
+
+
+At first the first Blue Turtle runs the file directions-1.txt
+
+
+
+
+
+after the Blue Turtle that goes for path of directions-1.txt file, then the Green Turtle progress as below
 
 
