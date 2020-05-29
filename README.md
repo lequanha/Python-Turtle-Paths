@@ -18,6 +18,7 @@ https://www.jetbrains.com/pycharm/download/#section=windows
 
 The program for this approach is here 
 
+https://github.com/lequanha/Python-Turtle-Paths/blob/master/eachturtle_directions.py
 
 
 At first the first Blue Turtle runs the file directions-1.txt
