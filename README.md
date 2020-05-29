@@ -54,6 +54,31 @@ Then all 6 Turtles complete with same results as the I-Each Solution
 ![Image of All Turtles](https://github.com/lequanha/Python-Turtle-Paths/blob/master/II-All%20Turtles%20Solution/All.png)
 
 
+**III) Six Turtles concurrently progress using 6 Threads 
+
+This is multi-threading programming by Python, the program is here
+
+https://github.com/lequanha/Python-Turtle-Paths/blob/master/threads_turtles.py
+
+you have to view python indentation better in raw format at
+https://raw.githubusercontent.com/lequanha/Python-Turtle-Paths/master/threads_turtles.py
+
+In compare to the other previous 2 solutions, the multi-threading program executes super-fast than the previous 2 programs,
+
+At first, the Multi-Thread program outputs as 
+
+![Image of Threads Pathway](https://github.com/lequanha/Python-Turtle-Paths/blob/master/III-Multi-Thread%20Solution/Threads-Pathway.png)
+
+when it has all done, this is the output
+
+![Image of Threads](https://github.com/lequanha/Python-Turtle-Paths/blob/master/III-Multi-Thread%20Solution/Threads.png)
+
+
+
+
+
+
+
 
 
 
