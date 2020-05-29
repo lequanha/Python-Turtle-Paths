@@ -91,6 +91,34 @@ Multi-Threading Solution Progress
 
 Hence the Multi-Threading program is much quicker, however because of memory multi-threading problem when I try to call Turtle.position() functions, the Multi-Threading program cannot calculate the current positions of each Turtles to have the required outputs for the whole problem.
 
+**V) Outputs
+
+The Results are the same for all 3 programs / 3 solutions however I still copy here then all the same results can be compared
+
+* V.1) The Each Solution outputs into 6 files here 
+
+The outputs are copied into this folder
+
+https://github.com/lequanha/Python-Turtle-Paths/tree/master/I-Each%20Turtle%20Solution
+
+Results for directions-1.txt
+https://github.com/lequanha/Python-Turtle-Paths/blob/master/I-Each%20Turtle%20Solution/eachturtle-1.output
+
+Results for directions-2.txt
+https://github.com/lequanha/Python-Turtle-Paths/blob/master/I-Each%20Turtle%20Solution/eachturtle-2.output
+
+Results for directions-3.txt
+https://github.com/lequanha/Python-Turtle-Paths/blob/master/I-Each%20Turtle%20Solution/eachturtle-3.output
+
+Results for directions-4.txt
+https://github.com/lequanha/Python-Turtle-Paths/blob/master/I-Each%20Turtle%20Solution/eachturtle-4.output
+
+Results for directions-5.txt
+https://github.com/lequanha/Python-Turtle-Paths/blob/master/I-Each%20Turtle%20Solution/eachturtle-5.output
+
+Results for directions-6.txt
+https://github.com/lequanha/Python-Turtle-Paths/blob/master/I-Each%20Turtle%20Solution/eachturtle-6.output
+
 
 
 
