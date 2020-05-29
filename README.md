@@ -20,15 +20,15 @@ The program for this approach is here
 
 https://github.com/lequanha/Python-Turtle-Paths/blob/master/eachturtle_directions.py
 
+you have to view python indentation better in raw format at
+https://raw.githubusercontent.com/lequanha/Python-Turtle-Paths/master/eachturtle_directions.py
 
 At first the first Blue Turtle runs the file directions-1.txt
 
 ![Image of Blue Turtle](https://github.com/lequanha/Python-Turtle-Paths/blob/master/I-Each%20Turtle%20Solution/Each-Pathway.png)
 
-
-
-
-
 after the Blue Turtle that goes for path of directions-1.txt file, then the Green Turtle progress as below
+
+![Image of Blue and Green Turtles](https://github.com/lequanha/Python-Turtle-Paths/blob/master/I-Each%20Turtle%20Solution/Each-Path2.png)
 
 
