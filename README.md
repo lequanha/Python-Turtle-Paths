@@ -91,7 +91,7 @@ Multi-Threading Solution Progress
 
 Hence the Multi-Threading program is much quicker, however because of memory multi-threading problem when I try to call Turtle.position() functions, the Multi-Threading program cannot calculate the current positions of each Turtles to have the required outputs for the whole problem.
 
-**V) Outputs
+**V) Outputs**
 
 The Results are the same for all 3 programs / 3 solutions however I still copy here then all the same results can be compared
 
@@ -102,24 +102,65 @@ The outputs are copied into this folder
 https://github.com/lequanha/Python-Turtle-Paths/tree/master/I-Each%20Turtle%20Solution
 
 Results for directions-1.txt
+
 https://github.com/lequanha/Python-Turtle-Paths/blob/master/I-Each%20Turtle%20Solution/eachturtle-1.output
 
 Results for directions-2.txt
+
 https://github.com/lequanha/Python-Turtle-Paths/blob/master/I-Each%20Turtle%20Solution/eachturtle-2.output
 
 Results for directions-3.txt
+
 https://github.com/lequanha/Python-Turtle-Paths/blob/master/I-Each%20Turtle%20Solution/eachturtle-3.output
 
 Results for directions-4.txt
+
 https://github.com/lequanha/Python-Turtle-Paths/blob/master/I-Each%20Turtle%20Solution/eachturtle-4.output
 
 Results for directions-5.txt
+
 https://github.com/lequanha/Python-Turtle-Paths/blob/master/I-Each%20Turtle%20Solution/eachturtle-5.output
 
 Results for directions-6.txt
+
 https://github.com/lequanha/Python-Turtle-Paths/blob/master/I-Each%20Turtle%20Solution/eachturtle-6.output
 
 
+
+*V.2) The All Solution outputs into 6 files here* 
+
+The outputs are copied into this folder
+
+https://github.com/lequanha/Python-Turtle-Paths/tree/master/II-All%20Turtles%20Solution
+ 
+Results for directions-1.txt
+
+https://github.com/lequanha/Python-Turtle-Paths/blob/master/II-All%20Turtles%20Solution/allturtle-1.output 
+
+Results for directions-2.txt
+
+https://github.com/lequanha/Python-Turtle-Paths/blob/master/II-All%20Turtles%20Solution/allturtle-2.output 
+
+Results for directions-3.txt
+
+https://github.com/lequanha/Python-Turtle-Paths/blob/master/II-All%20Turtles%20Solution/allturtle-3.output 
+
+Results for directions-4.txt
+
+https://github.com/lequanha/Python-Turtle-Paths/blob/master/II-All%20Turtles%20Solution/allturtle-4.output 
+
+Results for directions-5.txt
+
+https://github.com/lequanha/Python-Turtle-Paths/blob/master/II-All%20Turtles%20Solution/allturtle-5.output 
+
+Results for directions-6.txt
+
+https://github.com/lequanha/Python-Turtle-Paths/blob/master/II-All%20Turtles%20Solution/allturtle-6.output 
+
+
+The above files show that the 2 programs have same results, also the programs output these results into Console panel of PyCharm area
+
+![Image of PyCharm](https://github.com/lequanha/Python-Turtle-Paths/blob/master/PyCharm/PyCharm.png)
 
 
 
