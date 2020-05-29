@@ -27,13 +27,33 @@ At first the first Blue Turtle runs the file directions-1.txt
 
 ![Image of Blue Turtle](https://github.com/lequanha/Python-Turtle-Paths/blob/master/I-Each%20Turtle%20Solution/Each-Pathway.png)
 
-after the Blue Turtle that goes for path of directions-1.txt file, then the Green Turtle progress as below
+after the Blue Turtle that goes for path of directions-1.txt file, then the Green Turtle progress the second file directions-2.txt as below
 
 ![Image of Blue and Green Turtles](https://github.com/lequanha/Python-Turtle-Paths/blob/master/I-Each%20Turtle%20Solution/Each-Path2.png)
 
 Finally, when the program has done, this is the final screen
 
 ![Image of Each Solution](https://github.com/lequanha/Python-Turtle-Paths/blob/master/I-Each%20Turtle%20Solution/Each.png)
+
+
+**II) Six Turtles progress at the same time using FOR loops
+
+The program for this approach is here 
+
+https://github.com/lequanha/Python-Turtle-Paths/blob/master/allturtles_directions.py
+
+you have to view python indentation better in raw format at
+https://raw.githubusercontent.com/lequanha/Python-Turtle-Paths/master/allturtles_directions.py
+
+At first, the 6 Turtles progress 6 files: directions-1.txt, directions-2.txt, directions-3.txt, directions-4.txt, directions-5.txt and directions-6.txt by FOOR loops as below
+
+![Image of All Pathway](https://github.com/lequanha/Python-Turtle-Paths/blob/master/II-All%20Turtles%20Solution/All-Pathway.png)
+
+Then all 6 Turtles complete with same results as the I-Each Solution
+
+![Image of All Turtles](https://github.com/lequanha/Python-Turtle-Paths/blob/master/II-All%20Turtles%20Solution/All.png)
+
+
 
 
 
