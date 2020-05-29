@@ -79,7 +79,7 @@ If I execute three programs at the same time, after a while, I have 3 below scre
 
 Each-Solution Progress
 
-![Image of Comp1](https://github.com/lequanha/Python-Turtle-Paths/blob/master/III-Multi-Thread%20Solution/each_comparison.png}
+![Image of Comp1](https://github.com/lequanha/Python-Turtle-Paths/blob/master/III-Multi-Thread%20Solution/each_comparison.png)
 
 All Solution Progress
 
