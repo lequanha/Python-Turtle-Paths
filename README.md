@@ -31,4 +31,10 @@ after the Blue Turtle that goes for path of directions-1.txt file, then the Gree
 
 ![Image of Blue and Green Turtles](https://github.com/lequanha/Python-Turtle-Paths/blob/master/I-Each%20Turtle%20Solution/Each-Path2.png)
 
+Finally, when the program has done, this is the final screen
+
+![Image of Each Solution](https://github.com/lequanha/Python-Turtle-Paths/blob/master/I-Each%20Turtle%20Solution/Each.png)
+
+
+
 
