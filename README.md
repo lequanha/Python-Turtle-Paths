@@ -95,7 +95,7 @@ Hence the Multi-Threading program is much quicker, however because of memory mul
 
 The Results are the same for all 3 programs / 3 solutions however I still copy here then all the same results can be compared
 
-* V.1) The Each Solution outputs into 6 files here 
+*V.1) The Each Solution outputs into 6 files here* 
 
 The outputs are copied into this folder
 
