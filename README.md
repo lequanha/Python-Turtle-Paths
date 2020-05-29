@@ -36,7 +36,7 @@ Finally, when the program has done, this is the final screen
 ![Image of Each Solution](https://github.com/lequanha/Python-Turtle-Paths/blob/master/I-Each%20Turtle%20Solution/Each.png)
 
 
-**II) Six Turtles progress at the same time using FOR loops
+**II) Six Turtles progress at the same time using FOR loops**
 
 The program for this approach is here 
 
@@ -54,7 +54,7 @@ Then all 6 Turtles complete with same results as the I-Each Solution
 ![Image of All Turtles](https://github.com/lequanha/Python-Turtle-Paths/blob/master/II-All%20Turtles%20Solution/All.png)
 
 
-**III) Six Turtles concurrently progress using 6 Threads 
+**III) Six Turtles concurrently progress using 6 Threads**
 
 This is multi-threading programming by Python, the program is here
 
@@ -72,6 +72,24 @@ At first, the Multi-Thread program outputs as
 when it has all done, this is the output
 
 ![Image of Threads](https://github.com/lequanha/Python-Turtle-Paths/blob/master/III-Multi-Thread%20Solution/Threads.png)
+
+**IV) Comparison**
+
+If I execute three programs at the same time, after a while, I have 3 below screens of 3 programs' progresses at the same time
+
+Each-Solution Progress
+
+![Image of Comp1](https://github.com/lequanha/Python-Turtle-Paths/blob/master/III-Multi-Thread%20Solution/each_comparison.png}
+
+All Solution Progress
+
+![Image of Comp2](https://github.com/lequanha/Python-Turtle-Paths/blob/master/III-Multi-Thread%20Solution/all_comparison.png)
+
+Multi-Threading Solution Progress
+
+![Image of Comp3](https://github.com/lequanha/Python-Turtle-Paths/blob/master/III-Multi-Thread%20Solution/threads_comparison.png)
+
+Hence the Multi-Threading program is much quicker, however because of memory multi-threading problem when I try to call Turtle.position() functions, the Multi-Threading program cannot calculate the current positions of each Turtles to have the required outputs for the whole problem.
 
 
 
