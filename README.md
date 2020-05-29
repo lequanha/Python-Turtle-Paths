@@ -23,6 +23,8 @@ https://github.com/lequanha/Python-Turtle-Paths/blob/master/eachturtle_direction
 
 At first the first Blue Turtle runs the file directions-1.txt
 
+![Image of Blue Turtle](https://github.com/lequanha/Python-Turtle-Paths/blob/master/I-Each%20Turtle%20Solution/Each-Pathway.png)
+
 
 
 
